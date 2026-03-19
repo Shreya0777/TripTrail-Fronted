@@ -25,6 +25,7 @@ src/
  │     ├── Feed.jsx
  │     ├── TripDetail.jsx
  │     ├── CreateTrip.jsx
+ |     |__Profile.jsx
  ├── components/
  │     ├── Navbar.jsx
  │     ├── TripCard.jsx

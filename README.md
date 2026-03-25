@@ -161,7 +161,7 @@ src/
 //                 </div>
 //               </div>
 //             </div>
-//           ) : (
+//           ) : ( 
 //             trips.map((trip) => (
 //               <div
 //                 key={trip._id}
@@ -175,7 +175,7 @@ src/
 //                     {trip.bestPlace?.slice(0, 50)}
 //                     {trip.bestPlace?.length > 50 ? "…" : ""}
 //                   </h3>
-
+/trips/${id}
 //                   {/* Tags */}
 //                   <div className="flex flex-wrap gap-1 mt-1">
 //                     {trip.tags?.slice(0, 3).map((tag) => (
